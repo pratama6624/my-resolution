@@ -3,3 +3,4 @@ My Resolution
 - Mendapatkan 1 Unit Iphone sebagai reward atas iOS Roadmap #1
 - Membangun portofolio project (max 2026 - My Kidney)
 - Apply Apple Developer Academy 2027 batch 1
+- Membuat project iOS (Pet Paws)
